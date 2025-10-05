@@ -26,8 +26,15 @@ The objective is to build a structured relational database that supports efficie
 
 ### **Data Source**
 
-* **SQL Database:** Data is stored in related tables including books, members, employees, branch, issued_status, and return_status.
-* **Sample Data:** Records were manually created to simulate real-world library transactions for testing and analysis.
+* **SQL Database:**
+The project uses a relational SQL database comprising the following tables:
+
+* branch: Branch details including manager, address, and contact number.
+* employees: Employee information such as name, position, and salary.
+* books: Book records with title, category, author, and rental price.
+* members: Member details including name, address, and registration date.
+* issued_status: Information on books issued, with member and employee IDs.
+* return_status: Details of returned books linked to issued records.
 
 ---
 
