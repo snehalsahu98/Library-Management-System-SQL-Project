@@ -24,7 +24,7 @@ The objective is to build a structured relational database that supports efficie
 
 ---
 
-### **Data Source**
+## **Data Source**
 
 <img width="608" height="483" alt="Image" src="https://github.com/user-attachments/assets/f7350383-e568-49a8-b54e-126a34fa181d" />
 
