@@ -16,6 +16,8 @@
 
 ## **Project Overview**
 
+<img width="1536" height="1024" alt="Image" src="https://github.com/user-attachments/assets/e2860add-4483-4e64-bd47-98e1f176b1b5" />
+
 The purpose of this project is to design and analyze a **Library Management System** using SQL.
 The system manages books, members, employees, and branches to handle operations such as book issuance, returns, and performance reporting.
 The objective is to build a structured relational database that supports efficient management of library operations and provides insights into book circulation, employee activity, and branch performance.
