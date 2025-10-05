@@ -1,17 +1,16 @@
 # **Library Management System – SQL Project**
 
 ## **Table of Contents**
+- [Project Overview](#project-overview)
+- [Data Source](#data-source)
+- [Tools](#tools)
+- [Data Preparation](#data-preparation)
+- [SQL Analysis](#sql-analysis)
+- [Results](#results)
+- [Recommendations](#recommendations)
+- [Limitations](#limitations)
+- [References](#references)
 
-* Project Overview
-* Data Source
-* Tools
-* Data Preparation
-* SQL Analysis
-* Results
-* Recommendations
-* Limitations
-* References
-[Project Overview](#project-overview)
 
 ---
 
