@@ -1,5 +1,3 @@
-
-
 # **Library Management System – SQL Project**
 
 ## **Table of Contents**
@@ -16,7 +14,7 @@
 
 ---
 
-### **Project Overview**
+## **Project Overview**
 
 The purpose of this project is to design and analyze a **Library Management System** using SQL.
 The system manages books, members, employees, and branches to handle operations such as book issuance, returns, and performance reporting.
@@ -26,19 +24,18 @@ The objective is to build a structured relational database that supports efficie
 
 ### **Data Source**
 
-* **SQL Database:**
+**SQL Database:**
 The project uses a relational SQL database comprising the following tables:
 
-* branch: Branch details including manager, address, and contact number.
-* employees: Employee information such as name, position, and salary.
-* books: Book records with title, category, author, and rental price.
-* members: Member details including name, address, and registration date.
-* issued_status: Information on books issued, with member and employee IDs.
-* return_status: Details of returned books linked to issued records.
-
+* **branch**: Branch details including manager, address, and contact number.
+* **employees**: Employee information such as name, position, and salary.
+* **books**: Book records with title, category, author, and rental price.
+* **members**: Member details including name, address, and registration date.
+* **issued_status**: Information on books issued, with member and employee IDs.
+* **return_status**: Details of returned books linked to issued records.
 ---
 
-### **Tools**
+## **Tools**
 
 * **PostgreSQL / SQL Server:** Used for database design, querying, and data analysis.
 * **PL/pgSQL:** Implemented to create stored procedures for automating book issue and return processes.
@@ -46,7 +43,7 @@ The project uses a relational SQL database comprising the following tables:
 
 ---
 
-### **Data Preparation**
+## **Data Preparation**
 
 * **Schema Creation:** Designed normalized tables with primary and foreign keys to ensure data integrity.
 * **Data Type Formatting:** Ensured correct data types for numeric, text, and date fields.
@@ -55,7 +52,7 @@ The project uses a relational SQL database comprising the following tables:
 
 ---
 
-### **SQL Analysis**
+## **SQL Analysis**
 
 Key areas of analysis included:
 
@@ -73,7 +70,7 @@ Stored procedures were created for automation:
 
 ---
 
-### **Results**
+## **Results**
 
 * The database successfully models all key library operations, including book issuance and returns.
 * Generated reports provided insights into branch and employee performance.
@@ -82,7 +79,7 @@ Stored procedures were created for automation:
 
 ---
 
-### **Recommendations**
+## **Recommendations**
 
 * Implement a fine calculation system for overdue books.
 * Integrate a reporting dashboard for real-time performance tracking.
@@ -91,7 +88,7 @@ Stored procedures were created for automation:
 
 ---
 
-### **Limitations**
+## **Limitations**
 
 * Static dataset; does not support real-time data updates.
 * Limited sample data for scalability testing.
@@ -100,7 +97,7 @@ Stored procedures were created for automation:
 
 ---
 
-### **References**
+## **References**
 
 * PostgreSQL Documentation – SQL Commands and Stored Procedures.
 * SQL Server Developer Guide – Data Modeling and Query Optimization.
